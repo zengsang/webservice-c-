@@ -1,0 +1,5 @@
+E:\workplace\vs\sign_Online\sign_Online\bin\sign_Online.dll
+E:\workplace\vs\sign_Online\sign_Online\bin\sign_Online.pdb
+E:\workplace\vs\sign_Online\sign_Online\obj\Debug\sign_Online.dll
+E:\workplace\vs\sign_Online\sign_Online\obj\Debug\sign_Online.pdb
+E:\workplace\vs\sign_Online\sign_Online\obj\Debug\sign_Online.csprojResolveAssemblyReference.cache

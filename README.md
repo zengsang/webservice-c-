@@ -4,7 +4,7 @@ a service by c#
 控制台接口展示：
 -----------------------------------
 ![image]("http://b228.photo.store.qq.com/psb?/V13onOga2qcUC7/b6lgR7kQNtBQ8iBfXFPHRxRzfakDmZFUKVGXDRvmST8!/c/dOQAAAAAAAAA&bo=VQBxAFUAcQADACU!")
-![image]("http://b143.photo.store.qq.com/psb?/V13onOga2qcUC7/4SQilTrC3cACQFJfKhjii4qbvLKHzqlJuD50e7PhOCI!/c/dI8AAAAAAAAA&bo=VQBxAFUAcQADACU!");
+![image]("http://b143.photo.store.qq.com/psb?/V13onOga2qcUC7/4SQilTrC3cACQFJfKhjii4qbvLKHzqlJuD50e7PhOCI!/c/dI8AAAAAAAAA&bo=VQBxAFUAcQADACU!")
 简要说明：
 -----------------------------------
 这个控制台是一个测试平台，在写完后台后进行测试，主要是服务器请求数据库然后进行相应的接口实现。  <br  />  在这里主要就是要注意IP地址，有些网络情况下可以直接使用ip，手机端也能正常使用， <br  />
